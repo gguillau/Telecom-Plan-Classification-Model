@@ -17,6 +17,12 @@ Data about subscribers who have already switched to the new plans (from the proj
 * mb_used — Internet traffic used in MB,
 * is_ultra — plan for the current month (Ultra - 1, Smart - 0).
 
+## Libraries Used
+- Pandas
+- Matplotlib.pyplot
+- scipy.stats
+- numpy
+- sklearn
 
 ## Models Evaluated
 * Decision Tree Classifier
